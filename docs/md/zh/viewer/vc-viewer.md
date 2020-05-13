@@ -4,6 +4,8 @@
 
 ## 示例
 
+> tips: 此例子有用到 vc-navigation 控件，需要单独引入CSS `import 'vue-cesium/lib/vc-navigation.css`
+
 ### 用 vc-viewer 组件初始化 Viewer 实例
 
 #### 预览
